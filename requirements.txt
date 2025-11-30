@@ -1,0 +1,16 @@
+
+requests
+python-dotenv
+llama-index-embeddings-huggingface
+
+gradio>=4.0.0,<5.0.0
+python-dotenv>=1.0.0
+openai>=1.40.0
+mcp>=1.2.0
+
+llama-index-core>=0.11.0
+llama-index-llms-openai>=0.2.0
+llama-index-readers-file>=0.2.0
+
+elevenlabs>=1.7.0
+requests>=2.31.0
