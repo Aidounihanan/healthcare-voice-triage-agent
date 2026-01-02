@@ -1,8 +1,5 @@
 ---
 title: Healthcare Voice Triage Agent
-emoji: 🏥🔊
-colorFrom: gray
-colorTo: pink
 sdk: gradio
 sdk_version: 6.0.1
 app_file: app.py
@@ -67,12 +64,6 @@ This demo simulates a real hospital workflow:
 
 ## 🎬 Demo Video:
 👉 
-
----
-
-## 🔗 Social Media Post:
-👉 https://x.com/Aidouni79030/status/1995254093749633152?s=20
-
 ---
 
 ## 🏁 How to Use
@@ -111,7 +102,6 @@ Perfect example of **MCP in Action** for the **Enterprise Track**.
 
 ## 👥 Team
 Solo project by: **Hanan Aidouni**  
-*HuggingFace username: aidouni*
 
 ---
 
